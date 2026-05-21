@@ -1,0 +1,29 @@
+# Exclude specific Word documents
+Pratheeksha_Week-02.docx
+Project4_Ag_Prediction of Agriculture Crop Production In India.docx
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Scratch files
+notebook_code.py
+features.txt
