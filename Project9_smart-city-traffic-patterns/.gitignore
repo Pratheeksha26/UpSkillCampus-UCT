@@ -1,6 +1,5 @@
 # Documentation
 docs/
-*.docx
 
 # Python
 __pycache__/
